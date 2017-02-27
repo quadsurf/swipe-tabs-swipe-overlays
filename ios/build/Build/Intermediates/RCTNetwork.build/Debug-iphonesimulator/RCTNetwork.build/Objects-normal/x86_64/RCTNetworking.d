@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/Libraries/Network/RCTNetworking.mm \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h

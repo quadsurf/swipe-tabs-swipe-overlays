@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Modules/RCTDevMenu.mm \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/manpreetsingh/Desktop/Singh/Assignments/React/Sheprd/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h
